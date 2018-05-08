@@ -1,4 +1,12 @@
 DXC.technology
-
-
+|
+|
 Please fill the form
+|
+|
+Employee details:
+Name:
+Mobile number:
+email:
+|
+|
